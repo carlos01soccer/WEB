@@ -19,3 +19,7 @@ form input, form textarea{
     font-size: 1em;
     resize: horizontal; 
   }
+  h2{
+    text-align: center;
+
+  }
